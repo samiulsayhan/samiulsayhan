@@ -1,6 +1,7 @@
+<img src="https://i.ibb.co.com/0yPV35n7/Samiul-Sayhan.png" alt="Samiul-Sayhan" border="0">
+
 ### Hi ... I am Samiul Sayhan 👋
 #### I am a Junior Web Developer
-![I am a Junior Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I’m a Junior Front End Web Developer with a strong passion for creating dynamic and responsive web applications. With a focus on learning and growing in the field, I enjoy working with technologies like HTML, CSS, JavaScript and React. As I continue to develop my skills, I aim to build meaningful projects that make a difference. I’m always eager to collaborate, learn from others, and contribute to the developer community. I thrive on solving complex problems and enjoy the challenge of turning ideas into functional, user-friendly applications. Explore my work, and feel free to connect if you’re interested in working together or sharing knowledge!
 
