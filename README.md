@@ -1,4 +1,4 @@
-### Hi there 👋, I am Samiul Sayhan
+### Hi ... I am Samiul Sayhan 👋
 #### I am a Junior Web Developer
 ![I am a Junior Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -10,7 +10,14 @@ Skills: REACT / JS / HTML / CSS/Tailwind
 - 🌱 I’m currently learning React and Gsap 
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: samiulsayhan@gmail.com 
-- ⚡ Fun fact: Love Singing 
+- ⚡ Fun fact: Love Singing
+
+### 👨‍💻 Skills & Experiance:
+
+✅ JavaScript
+✅ React
+✅ HTML5 / CSS3 / TailWind
+✅ Learning GSAP right now
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samiulsayhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samiul-sayhan-0a1a2522b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yfm-movies.netlify.app/)  
@@ -27,11 +34,6 @@ Skills: REACT / JS / HTML / CSS/Tailwind
 
 
   
-### 👨‍💻 Skills & Experiance:
 
-✅ JavaScript
-✅ React
-✅ HTML5 / CSS3 / TailWind
-✅ Learning GSAP right now
 
 
