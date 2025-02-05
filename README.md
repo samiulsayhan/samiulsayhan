@@ -6,7 +6,7 @@
 
 I’m a Junior Front End Web Developer with a strong passion for creating dynamic and responsive web applications. With a focus on learning and growing in the field, I enjoy working with technologies like HTML, CSS, JavaScript and React. As I continue to develop my skills, I aim to build meaningful projects that make a difference. I’m always eager to collaborate, learn from others, and contribute to the developer community. I thrive on solving complex problems and enjoy the challenge of turning ideas into functional, user-friendly applications. Explore my work, and feel free to connect if you’re interested in working together or sharing knowledge!
 
-Skills: REACT / JS / HTML / CSS/Tailwind
+
 
 - 🔭 I’m currently working on a Free Movie downloading project 
 - 🌱 I’m currently learning React and Gsap 
@@ -17,10 +17,15 @@ Skills: REACT / JS / HTML / CSS/Tailwind
 ### 👨‍💻 Skills & Experiance:
 
 ✅ JavaScript
+
 ✅ React
+
 ✅ HTML5 / CSS3 / TailWind
+
 ✅ Bootstrap 
+
 ✅ Firebase
+
 ✅ Learning GSAP right now
 
 
