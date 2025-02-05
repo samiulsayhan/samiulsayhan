@@ -19,6 +19,8 @@ Skills: REACT / JS / HTML / CSS/Tailwind
 ✅ JavaScript
 ✅ React
 ✅ HTML5 / CSS3 / TailWind
+✅ Bootstrap 
+✅ Firebase
 ✅ Learning GSAP right now
 
 
