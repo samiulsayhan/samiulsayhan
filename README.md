@@ -28,6 +28,9 @@ I’m a Junior Front End Web Developer with a strong passion for creating dynami
 
 ✅ Learning GSAP right now
 
+✅ Wordpress
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samiulsayhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samiul-sayhan-0a1a2522b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sayhan-portfolio.netlify.app/)  
 
