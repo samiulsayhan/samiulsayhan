@@ -1,34 +1,43 @@
 <img src="https://i.ibb.co.com/JRHSRvng/Samiul-Sayhan.png" alt="Samiul-Sayhan" border="0">
 
 
-### Hi ... I am Samiul Sayhan 👋
-#### I am a Junior Web Developer
+### 👋 Hi, I'm a WordPress Developer with hands-on experience building and customizing websites for clients and businesses. I specialize in developing full-featured, responsive, and SEO-optimized WordPress websites—from landing pages to eCommerce solutions.
 
-I’m a Junior Front End Web Developer with a strong passion for creating dynamic and responsive web applications. With a focus on learning and growing in the field, I enjoy working with technologies like HTML, CSS, JavaScript and React. As I continue to develop my skills, I aim to build meaningful projects that make a difference. I’m always eager to collaborate, learn from others, and contribute to the developer community. I thrive on solving complex problems and enjoy the challenge of turning ideas into functional, user-friendly applications. Explore my work, and feel free to connect if you’re interested in working together or sharing knowledge!
+💼 I currently work professionally as a WordPress developer and have completed over 25 full projects, delivering clean design, fast performance, and reliable functionality.
+
+🎯 My services are also available on Fiverr, where I provide custom WordPress development, theme customization, and plugin integration tailored to client needs.
+
+🔧 Skills:
+
+WordPress (Custom Themes & Plugins)
+
+Elementor, WPBakery, and other page builders
+
+WooCommerce
+
+SEO Optimization
+
+Performance Tuning & Security
+
+Domain, Hosting & Website Migration
+
+📬 I'm always open to new opportunities, collaborations, and projects. Let’s build something great together!
 
 
-
-- 🔭 I’m currently working on a Free Movie downloading project 
-- 🌱 I’m currently learning React and Gsap 
-- 👯 I’m looking to collaborate on GitHub 
-- 📫 How to reach me: samiulsayhan@gmail.com 
-- ⚡ Fun fact: Love Singing
 
 ### 👨‍💻 Skills & Experiance:
 
-✅ JavaScript
+✅ Wordpress 
 
-✅ React
+✅ Elementor Pro 
 
-✅ HTML5 / CSS3 / TailWind
+✅ Woocommerce 
 
-✅ Bootstrap 
+✅ One Page Seo 
 
-✅ Firebase
+✅ Custom Template Design
 
-✅ Learning GSAP right now
-
-✅ Wordpress
+✅ Can Build Plugin for Project Demand
 
 
 
