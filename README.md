@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co.com/JRHSRvng/Samiul-Sayhan.png" alt="Samiul-Sayhan" border="0">
-
 
 ### 👋 Hi, I'm a WordPress Developer with hands-on experience building and customizing websites for clients and businesses. I specialize in developing full-featured, responsive, and SEO-optimized WordPress websites—from landing pages to eCommerce solutions.
 
